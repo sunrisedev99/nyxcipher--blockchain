@@ -101,8 +101,6 @@ inside your local `dist/` folder
 
 ## **New Update ⚠️**
 
-We'd like to inform you of important changes to our distribution repository [nodesource/distributions](https://github.com/nodesource/distributions).
-
 **What's New:**
 
 - _**Package Changes:** DEB and RPM packages are now available under the `nodistro` codename. We no longer package the installer coupled to specific versions. This means you can install Node.js on almost any distro that meets the minimum requirements._
